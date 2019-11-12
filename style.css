@@ -2,10 +2,54 @@
 /* CSS Document */
 
 body {
-	background-color: lightblue;
-	
+	background-color: bisque;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
 }
+
 h1 {
-	font-family: Verdana;
-	
+	font-family: 'Raleway', sans-serif;
+	font-size: 60px;
+	height: 30px;
+	align-content: center;
+	color: steelblue;
+	text-align: center;
 }
+
+h2 {
+	text-align: center;
+	height: 40px;
+	font-size: 30px;
+	font-family: 'Raleway', light, sans-serif;
+	color: #3C6AAD;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Raleway' , sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+	height: 20px;
+	color: lightslategray;
+}
+
+p {
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+	color: dimgrey;
+}
+
+.mission {
+	background-color: navajowhite;
+	height: auto;
+	padding-top: 2px;
+	padding-bottom: 8px;
+}
+
+
+
+
+
+
