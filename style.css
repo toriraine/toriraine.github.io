@@ -54,6 +54,7 @@ p {
 	background-color: cadetblue;
 	text-align: center;
 	background-image: url("bee.jpg");
+	background-position: center;
 }
 
 .content1:hover {
@@ -68,6 +69,7 @@ p {
 	background-color: cadetblue;
 	text-align: center;
 	background-image: url("turtle.jpg");
+	background-position: center;
 }
 
 .content2:hover {
@@ -81,6 +83,7 @@ p {
 	background-color: cadetblue;
 	text-align: center;
 	background-image: url("./polarbear.jpg");
+	background-position: center;
 }
 
 .ContentBox {
