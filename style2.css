@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: bisque;
+	
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 60px;
+	align-content: center;
+	color: steelblue;
+	text-align: center;
+}
